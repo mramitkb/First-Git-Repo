@@ -1,0 +1,57 @@
+.border1{
+    height: 150px;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+    border-left: 5px dotted rgb(27, 25, 20);
+    background-color: bisque;
+    box-shadow: 15px 15px 10px rgb(83, 79, 79);
+    border-radius: 0px 0px 15px 0px;
+    
+}
+h2{
+    text-align: center;    
+}
+.border2{
+    height: 150px;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    border-left: 5px dotted bisque;
+    background-color: black;
+    color: bisque;
+    border-radius: 0px 0px 15px 0px;
+    box-shadow: 15px 15px 15px rgb(65, 57, 47);
+}
+.border3{
+    height: 150px;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgb(80, 173, 142);
+    border-left: 5px dotted black;
+    border-radius: 0px 0px 15px 0px;
+    box-shadow: 15px 15px 15px rgb(102, 131, 131);
+    margin-bottom: 40px;
+}
+body{
+    background-color: black;
+}
+.photo{
+    height: 300px;
+    margin: auto;
+    display: flex;
+
+}
+h3{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid black;
+    box-shadow: 3px 10px 10px white;
+    width: 60px;
+    margin: auto;
+}
